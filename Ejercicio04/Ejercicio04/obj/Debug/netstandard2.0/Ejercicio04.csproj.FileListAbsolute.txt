@@ -1,0 +1,17 @@
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\bin\Debug\netstandard2.0\Ejercicio04.deps.json
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\bin\Debug\netstandard2.0\Ejercicio04.dll
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\bin\Debug\netstandard2.0\Ejercicio04.pdb
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.csproj.AssemblyReference.cache
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.AssemblyInfoInputs.cache
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.AssemblyInfo.cs
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.dll
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\refint\Ejercicio04.dll
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\Ejercicio04.pdb
+C:\Users\Huaman.S.C\Downloads\Ejercicio04-master\Ejercicio04\Ejercicio04\obj\Debug\netstandard2.0\ref\Ejercicio04.dll

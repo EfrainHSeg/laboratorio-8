@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9MschkldTS3ZPtJtthPQARHc0X/4JpHdU5nId8Rbh1nRBFppZ0B//uCqMOekqoVOoJSYbgEEiP3ffC2eiIxiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huaman.S.C\\Downloads\\Ejercicio04-master\\Ejercicio04\\Ejercicio04.iOS\\Ejercicio04.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huaman.S.C\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Huaman.S.C\\.nuget\\packages\\xamarin.essentials\\1.8.0\\xamarin.essentials.1.8.0.nupkg.sha512",
+    "C:\\Users\\Huaman.S.C\\.nuget\\packages\\xamarin.forms\\5.0.0.2612\\xamarin.forms.5.0.0.2612.nupkg.sha512",
+    "C:\\Users\\Huaman.S.C\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Huaman.S.C\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
